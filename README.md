@@ -24,8 +24,8 @@ pip install -r requiremets.txt
 
 ## push into github: Steps
 ``````
-git config --global user.name
-git config --global user.email
+git config --global user.name "your git name"
+git config --global user.email "your git email"
 ``````
 1. Add file to git and check
 ``````
