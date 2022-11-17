@@ -1,3 +1,4 @@
+from crypt import methods
 import json
 import pickle
 
@@ -31,7 +32,6 @@ def predict():
     output=regmodel.predict(final_input)[0]
     return render_template("home.html",prediction_text="The House price prediction is {}".format(output))
 
-
-
+    
 if __name__=="__main__":
     app.run(debug=True)
