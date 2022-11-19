@@ -38,8 +38,9 @@ git add .
 2. [Git Commit Command Link](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
 `````
 git commit -m "This is first commit; includes requirements.txt and readme file"
-````
+```````
 3. [Git Push Command Link](https://www.atlassian.com/git/tutorials/syncing/git-push#:~:text=The%20git%20push%20command%20is,exports%20commits%20to%20remote%20branches.)
-```````
+
+`````````
 git push origin main 
-```````
+`````````
