@@ -1,4 +1,4 @@
-## MLopsbostonhousepricing Demo project for student
+## MLopsbostonhousepricing Demo project for student commit from cloned
 
 ## software and tools requirements 
 
